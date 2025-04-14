@@ -1,10 +1,10 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: 'fab fa-github'
 
 - type: twitter
-  icon: "fa-brands fa-x-twitter"
+  icon: 'fa-brands fa-twitter'
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
@@ -15,11 +15,11 @@
   url:  'https://www.xing.com/profiles/Mathias_Neuhaus/'          # Fill with your Xing homepage
 
 # - type: email
-#   icon: "fas fa-envelope"
+#   icon: 'fas fa-envelope'
 #   noblank: true # open link in current tab
 
 - type: rss
-  icon: "fas fa-rss"
+  icon: 'fas fa-rss'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
