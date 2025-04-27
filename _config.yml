@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Metaluna&nbsp;4 Development    # the main title
 
-tagline: Retro and Vintage Computers  # will display as the subtitle
+tagline: Retro with a modern Touch    # will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A Blog on Vintage and Retro Computers.
@@ -99,7 +99,7 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
-  /assets/images/Interocitor2.png
+  /assets/images/interocitor4.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
